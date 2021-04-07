@@ -63,12 +63,11 @@ AliOS Things中提供k_mm_alloc与k_mm_free两个用于申请/释放动态内存
   
 
 ### 文档
-
-硬件平台：阿里云IoT官方推出的HaaS100
-软件平台：AliOS Things物联网操作系统
-
-HaaS100快速开始文档：https://help.aliyun.com/document_detail/184184.html
-AliOS Things物联网操作系统说明文档：https://github.com/alibaba/AliOS-Things/tree/dev_3.1.0_haas
+* 硬件平台：阿里云IoT官方推出的HaaS EDU K1或HaaS100
+* 软件平台：AliOS Things物联网操作系统
+* HaaS EDU K1技术文档：https://blog.csdn.net/haastech/category_10825080.html
+* HaaS100快速开始文档：https://help.aliyun.com/document_detail/184184.html
+* AliOS Things物联网操作系统说明文档：https://github.com/alibaba/AliOS-Things/tree/dev_3.1.0_haas
 
 ### License
 
